@@ -1,2 +1,3 @@
 # learning_code
-all code edit during my learning
+
+All code sharing, welcome to exchange and study
